@@ -10,6 +10,7 @@
    
    ### Se adjunta el Manual del plan de marketing: https://docs.google.com/document/d/1gBIjpzM197J460Hula1h3xpLVKVJ2FLuKu3G88ggXc0/edit?usp=drivesdk
   
-  ## [[Manual del Plan de Marketing digital]( - https://docs.google.com/document/d/1gBIjpzM197J460Hula1h3xpLVKVJ2FLuKu3G88ggXc0/edit?usp=drivesdk
-   
+  ## [[Manual del Plan de Marketing digital]( - 
+https://docs.google.com/spreadsheets/d/15syZ1jc_sXvD4qTMT6QVI8W6ROk-HcSI/edit?usp=drivesdk&ouid=116448320561536178926&rtpof=true&sd=true
+
    ### Se adjunta las ventas en tecnología de empresa utilizando Plan de marketing digital https://docs.google.com/document/u/0/d/1aosNsbxbXE5jw6AkISzMmpF_GT2mdcwy6RV-xMj2gtU/mobilebasic
